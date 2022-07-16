@@ -12,8 +12,8 @@
 
 /*  Pete Dubler
      Heltec WIFI-Kit32
-     SDA pin 4   White Grove I2C cable
-     SCL pin 15  Yellow Grove I2C cable
+     SDA pin 21  White Grove I2C cable
+     SCL pin 22  Yellow Grove I2C cable
 */
 /*
  * Copyright (c) 2021, Sensirion AG
